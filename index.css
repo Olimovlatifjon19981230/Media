@@ -1,0 +1,21 @@
+.font123{
+  background-image: url(./images/123.png);
+  height: 400px;
+  text-align: center;
+}
+
+.bottom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.font123 p{
+  width: 40%;
+  text-align: center;
+  margin-left: 30%;
+
+}
+
